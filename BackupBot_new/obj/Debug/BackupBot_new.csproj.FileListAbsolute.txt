@@ -1,0 +1,36 @@
+H:\SYT\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe.config
+H:\SYT\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe
+H:\SYT\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.pdb
+H:\SYT\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.AssemblyReference.cache
+H:\SYT\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.CoreCompileInputs.cache
+H:\SYT\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.exe
+H:\SYT\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.pdb
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe.config
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.pdb
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.AssemblyReference.cache
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.CoreCompileInputs.cache
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.exe
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.pdb
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.SuggestedBindingRedirects.cache
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Core.dll
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Interfaces.dll
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.xxHash.dll
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Core.xml
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Interfaces.xml
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.xxHash.xml
+C:\HTL\2AHIT\SYT\Backup 3.0\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.CopyComplete
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe.config
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.exe
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\BackupBot_new.pdb
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Core.dll
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Interfaces.dll
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.xxHash.dll
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Core.xml
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.Interfaces.xml
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\bin\Debug\System.Data.HashFunction.xxHash.xml
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.AssemblyReference.cache
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.CoreCompileInputs.cache
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.csproj.CopyComplete
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.exe
+C:\Users\neemia.pricopiuc\Desktop\BackupBot_new\BackupBot_new\obj\Debug\BackupBot_new.pdb
